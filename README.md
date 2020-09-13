@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I’m currently working on GitHub sessions and Java
+<br>I’m currently learning  for help with UI Dev
 <!--
 **Ruthuparna-M-Patil/Ruthuparna-M-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
