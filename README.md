@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  I am Ruthuparna
+I'm currently pursuing my studies in Data Science field<br>
 I’m currently working on GitHub sessions and Python
 <br>I’m currently learning Python and Machine Learning
 <br> I'm working on Mahine learning projects
