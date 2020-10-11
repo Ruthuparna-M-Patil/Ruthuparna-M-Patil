@@ -1,8 +1,7 @@
 ### Hi there 👋  I am Ruthuparna
 I'm currently pursuing my studies in Data Science field<br>
-I’m currently working on GitHub sessions and Python
-<br>I’m currently learning Python and Machine Learning
-<br> I'm working on Mahine learning projects
+I’m currently learning Python and Machine Learning<br>
+I’m currently working on GitHub sessions and Python and also I'm working on Mahine learning projects.
 <!--
 **Ruthuparna-M-Patil/Ruthuparna-M-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
