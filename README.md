@@ -1,5 +1,5 @@
 ### Hi there 👋  I am Ruthuparna
-I'm currently pursuing my masters studies in Data Science field<br>
+I'm a M tech graduate in Data Science field<br>
 I’m currently learning Python and Machine Learning<br>
 I’m currently working on GitHub sessions and Python and also I'm working on Mahine learning projects.
 <!--
